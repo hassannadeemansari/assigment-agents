@@ -18,13 +18,13 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-openai_api_key = os.getenv("OPENAI_API_KEY")
+gemini_api_key= os.getenv("GEMINI_API_KEY")
 
-if not openai_api_key:
+if not gemini_api_key:
     raise ValueError("GEMINI_API_KEY is not set , Please ensure it is defined in you .env.file!")
 
 external_client = AsyncOpenAI(
-    api_key = openai_api_key,
+    api_key = gemini_api_key,
     base_url = "https://generativelanguage.googleapis.com/v1beta/openai/"
 )
 
