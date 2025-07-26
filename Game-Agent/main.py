@@ -1,6 +1,8 @@
-def main():
-    print("Hello from game!")
-
-
-if __name__ == "__main__":
-    main()
+import os
+from agent import (
+    Agent, 
+    Runner, 
+    OpenAIChatCompilationsModel, 
+    Run_config, 
+   
+) 
