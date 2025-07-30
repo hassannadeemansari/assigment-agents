@@ -27,5 +27,5 @@ The system is built with **Agent-based AI architecture**:
 
 ---
 
-## 📂 Project Structure
+
 
