@@ -6,8 +6,6 @@ NarratorAgent drives the story
 
 MonsterAgent handles battles
 
-ItemAgent gives rewards & tracks inventory
-
 Uses tools like roll_dice() and generate_event() for randomness
 
 🚀 Built With
