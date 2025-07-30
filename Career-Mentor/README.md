@@ -11,7 +11,6 @@ Shares real-world job roles and opportunities
 🤖 How It Works
 Built using OpenAI Agent SDK + Runner
 
-Smart agent handoff:
 
 CareerAgent → explores fields
 
