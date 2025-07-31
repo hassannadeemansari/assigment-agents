@@ -5,11 +5,7 @@ It uses **Gemini API** and **Agentic AI architecture** to provide an interactive
 
 ---
 
-## 🚀 Features
-
-✅ **Destination Suggestions** – Recommends the best travel destinations based on user queries.  
-✅ **Hotel Booking Assistance** – Suggests hotels, estimated costs, and stay details.  
-✅ **Explore Local Culture & Food** – Shares details about attractions, local cuisine, and cultural highlights.  
+## 🚀 Featureshts.  
 ✅ **Multi-Agent Handoff System** – A central `Trip Planner` agent delegates tasks to specialized sub-agents.
 
 ---
